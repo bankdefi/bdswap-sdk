@@ -8,7 +8,9 @@ export enum ChainId {
   ROPSTEN = 3,
   RINKEBY = 4,
   GÖRLI = 5,
-  KOVAN = 42
+  KOVAN = 42,
+  HECO_MAINNET = 128,
+  HECO_TESTNET = 256,
 }
 
 export enum TradeType {
@@ -22,7 +24,7 @@ export enum Rounding {
   ROUND_UP
 }
 
-export const FACTORY_ADDRESS = '0x1125C5F53C72eFd175753d427aA116B972Aa5537'
+export const FACTORY_ADDRESS = '0x17baf8f938bd81328e9f1730a29fb4d09dff8f49'
 
 export const INIT_CODE_HASH = '0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f'
 
