@@ -1,4 +1,4 @@
-# Wanswap SDK
+# Bdswap SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/Uniswap/wanswap-sdk/workflows/CI/badge.svg)](https://github.com/Uniswap/wanswap-sdk)
@@ -14,13 +14,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/Uniswap/wanswap-sdk.git
+git clone https://github.com/bankdefi/bdswap-sdk.git
 ```
 
-Move into the wanswap-sdk working directory
+Move into the bdswap-sdk working directory
 
 ```sh
-cd wanswap-sdk/
+cd bdswap-sdk/
 ```
 
 Install dependencies
